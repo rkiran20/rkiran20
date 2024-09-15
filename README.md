@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Vavilapalli Ravi Kiran
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React
 - 📫 How to reach me ravikiranvavilapalli20@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 rkiran20/rkiran20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
