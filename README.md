@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vavilapalli Ravi Kiran
-- 👀 I’m interested in Front-End Web Development
-- 💞️ I’m looking to collaborate on React
+- 👀 I’m interested in Full Stack Web Development
 - 📫 How to reach me ravikiranvavilapalli20@gmail.com
 
 <!---
